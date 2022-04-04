@@ -1,3 +1,5 @@
+
+
 const numIntento = document.getElementById("numIntento");
 const btnAdivinar = document.getElementById("btnAdivinar");
 const intentos = document.getElementById("intentos");
@@ -6,9 +8,13 @@ const altoBajo = document.getElementById("altoBajo");
 
 let numeroAleatorio = Math.floor(Math.random() * 100 + 1);
 
+
+
 numIntento.valule = "";
 let cantidadIntentos = 1;
 let btnReset; 
+
+
 
 function verificarIntento() 
 {
