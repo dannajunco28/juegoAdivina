@@ -136,6 +136,9 @@ let numVotos = Number(prompt("Ingrese el numero de votos "));
 let numCandidatos = 0
 
 
+
 //hacer un input donde tomemos el voto al oprimir hara el conteo
+
 //cuando llege 29 votos no recibe mas. aparece el mensaje diciendo quien fue el ganador
+
 //si pone un numero de un candidato que no exista, no debe contar votos pero debe permitir que ingrese una votacion valida                           
